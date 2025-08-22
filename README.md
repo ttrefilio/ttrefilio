@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Trefilio
 =======================================================================================================================================
 
-Backend / Full Stack Developer
+Backend / Full Stack Engineer
 ------------------------------
 
 I'm a four-year-experienced .NET developer working for the world's biggest restaurant chain.
